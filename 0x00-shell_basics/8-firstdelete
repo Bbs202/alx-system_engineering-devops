@@ -1,2 +1,2 @@
 #!/bin/bash
-del /tmp/holber/betty
+DEL /tmp/holber/betty

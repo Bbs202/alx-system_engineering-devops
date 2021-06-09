@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s "$dirname"/bin/ls "$ee_path"_ls_
+ln -s /bin/ls _ls_

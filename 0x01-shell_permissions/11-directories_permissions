@@ -1,2 +1,2 @@
-#!/bn/bash
-chmod ugo+x *
+#!/bin/bash
+chmod 002 *

@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R user:group <workingdirectory>
+chown -R user:holberton <betty>

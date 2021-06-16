@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x\n" $DECIMAL
+find . -empty printf "%f\n"
